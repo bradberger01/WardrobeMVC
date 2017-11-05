@@ -22,3 +22,28 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/*Home Page Layout*/
+h2{
+    text-align:center;
+}
+.TopsPicture{
+    max-width:100%;
+    height:20px;
+}
+.BottomsPiture{
+
+}
+.ShoesPicture{
+
+}
+.AccessoriesPicture{
+    margin-top:100px;
+}
+
+/*IndexPages*/
+
+.IconResize{
+    height:100px;
+    width:auto;
+}

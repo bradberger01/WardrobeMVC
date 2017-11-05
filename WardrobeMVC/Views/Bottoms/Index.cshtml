@@ -38,7 +38,7 @@
             @Html.DisplayFor(modelItem => item.BottomName)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.BottomPhoto)
+            <img class="IconResize" src="@Url.Content(item.BottomPhoto)" />
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.BottomType)

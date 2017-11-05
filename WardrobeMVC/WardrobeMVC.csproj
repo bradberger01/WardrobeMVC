@@ -200,14 +200,14 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\Images\Jeans.jpg" />
-    <Content Include="Content\Images\Jeans_small.jpg" />
-    <Content Include="Content\Images\PF_T_Shirt.jpg" />
-    <Content Include="Content\Images\PF_T_Shirt_small.jpg" />
-    <Content Include="Content\Images\Shoes.jpg" />
-    <Content Include="Content\Images\Shoes_small.jpg" />
-    <Content Include="Content\Images\Sunglasses.jpg" />
-    <Content Include="Content\Images\Sunglasses_small.jpg" />
+    <Content Include="Content\Jeans.jpg" />
+    <Content Include="Content\Jeans_small.jpg" />
+    <Content Include="Content\PF_T_Shirt.jpg" />
+    <Content Include="Content\PF_T_Shirt_small.jpg" />
+    <Content Include="Content\Shoes.jpg" />
+    <Content Include="Content\Shoes_small.jpg" />
+    <Content Include="Content\Sunglasses.jpg" />
+    <Content Include="Content\Sunglasses_small.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
