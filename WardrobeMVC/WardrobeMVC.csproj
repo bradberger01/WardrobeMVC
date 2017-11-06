@@ -200,10 +200,14 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Chuck_Taylors.jpg" />
+    <Content Include="Content\Fedora.jpg" />
     <Content Include="Content\Jeans.jpg" />
     <Content Include="Content\Jeans_small.jpg" />
+    <Content Include="Content\Khaki_Pants.jpg" />
     <Content Include="Content\PF_T_Shirt.jpg" />
     <Content Include="Content\PF_T_Shirt_small.jpg" />
+    <Content Include="Content\Polo_Shirt.jpg" />
     <Content Include="Content\Shoes.jpg" />
     <Content Include="Content\Shoes_small.jpg" />
     <Content Include="Content\Sunglasses.jpg" />
@@ -235,6 +239,7 @@
       <DependentUpon>TopModel.edmx</DependentUpon>
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\database.sql" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
