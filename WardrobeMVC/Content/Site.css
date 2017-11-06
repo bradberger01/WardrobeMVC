@@ -47,3 +47,9 @@ h2{
     height:100px;
     width:auto;
 }
+
+/*DetailsPage center everything*/
+
+.CenterEverything{
+    margin-left:300px;
+}
